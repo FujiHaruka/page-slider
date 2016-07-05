@@ -2,6 +2,10 @@
 
 Web サイトのページ遷移に左右のスライドアクションをつける JavaScript ライブラリ。
 
+## 入手
+
+[Release](https://github.com/FujiHaruka/page-slider/releases) からどうぞ。
+
 ## 使い方
 
 HTML ファイル内で `page_slider.js` を読み込んで、クラスを指定するだけ。
